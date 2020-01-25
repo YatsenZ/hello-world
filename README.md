@@ -8,7 +8,7 @@ System.out.println("Hello World!");
 print("Hello World!");
 
 # C++
-cout<<"Hello World!";
+std::cout<<"Hello World!";
 
 # C#
 Console.WriteLine("Hello World!");
